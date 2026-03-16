@@ -127,10 +127,10 @@ Frontend default URL: `http://localhost:5173`
 The web experience is designed for fast intake and triage with AI-guided follow-ups.
 
 ### Front Banner and Intake Screen
-<img src="https://placehold.co/1200x380?text=Placeholder+Banner+Front" alt="Placeholder Banner Front" width="900">
+<img src="SourceCode/frontend/img/front.png" alt="Front Banner and Intake Screen" width="900">
 
 ### Symptom Summary and Urgency Classification
-<img src="https://placehold.co/1200x500?text=Placeholder+Triage+Output" alt="Placeholder Triage Output" width="900">
+<img src="SourceCode/frontend/img/summary.png" alt="Symptom Summary and Urgency Classification" width="900">
 
 ---
 
@@ -171,14 +171,14 @@ MAF/
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="Source Code/frontend/img/inso.jpg" alt="Eliazar Inso" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
+      <img src="SourceCode/frontend/img/inso.jpg" alt="Eliazar Inso" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
       <strong>Eliazar Inso</strong><br>
       <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="Source Code/frontend/img/adriel.jpg" alt="Adriel Magalona" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
+      <img src="SourceCode/frontend/img/adriel.jpg" alt="Adriel Magalona" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
       <strong>Adriel Magalona</strong><br>
       <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -187,14 +187,14 @@ MAF/
   </tr>
   <tr>
     <td align="center" width="50%" style="padding-top: 20px;">
-      <img src="Source Code/frontend/img/hanzlei.jpg" alt="Hanzlei Jamison" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
+      <img src="SourceCode/frontend/img/hanzlei.jpg" alt="Hanzlei Jamison" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
       <strong>Hanzlei Jamison</strong><br>
       <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
     </td>
     <td align="center" width="50%" style="padding-top: 20px;">
-      <img src="Source Code/frontend/img/Vince.jpg" alt="Vincent Puti" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
+      <img src="SourceCode/frontend/img/Vince.jpg" alt="Vincent Puti" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;"><br>
       <strong>Vincent Puti</strong><br>
       <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
